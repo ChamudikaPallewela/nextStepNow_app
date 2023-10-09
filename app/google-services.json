@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087531715369",
+    "project_id": "nextstepnow-app",
+    "storage_bucket": "nextstepnow-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087531715369:android:78ef2736dcc26acc934538",
+        "android_client_info": {
+          "package_name": "com.example.nextstepnow_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087531715369-onfv5hvqbko8lunh7rgjp26eolr85k4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAXqa8AwdM4UpNoRPrwsceCWICC45takk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087531715369-onfv5hvqbko8lunh7rgjp26eolr85k4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

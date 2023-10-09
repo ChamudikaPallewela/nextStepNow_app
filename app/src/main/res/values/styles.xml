@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SwitchTheme" parent="Theme.MaterialComponents">
+        <item name="colorSurface">#FFFFFF</item> <!-- Light mode background color -->
+        <item name="colorOnSurface">#000000</item> <!-- Light mode thumb and track color -->
+        <item name="colorPrimary">#000000</item> <!-- Dark mode background color -->
+        <item name="colorOnPrimary">#FFFFFF</item> <!-- Dark mode thumb and track color -->
+    </style>
+</resources>
